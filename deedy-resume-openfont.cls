@@ -28,7 +28,7 @@
 \defaultfontfeatures{Mapping=tex-text}
 \setmainfont[Color=primary, Path = fonts/lato/]{Lato-Lig}
 \setsansfont[Scale=MatchLowercase,Mapping=tex-text, Path = fonts/raleway/]{Raleway-ExtraLight}
-\newcommand{\custombold}[1]{\color{subheadings}\fontspec[Path = fonts/lato/]{Lato-Reg}\selectfont #1 \normalfont}
+\newcommand{\custombold}[1]{\color{subheadings}\fontspec[Path = fonts/lato/]{Lato-Bol}\selectfont #1 \normalfont}
 
 % Date command
 \setlength{\TPHorizModule}{1mm}
